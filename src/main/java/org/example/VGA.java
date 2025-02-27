@@ -1,6 +1,7 @@
 package org.example;
 
 public class VGA extends Colokan{
+
     public VGA(int harga, double promisedBandwidth, String merk) {
         super(harga, promisedBandwidth, merk);
     }
